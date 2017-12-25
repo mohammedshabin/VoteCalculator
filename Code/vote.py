@@ -2,7 +2,7 @@ import operator
 
 print"---------------------------%_____________________%--------------------------------"
 
-print">>>>>>>>>>>>>>>>>>>>>>>>>>/VOTE COUNTING MACHINE\<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+print">>>>>>>>>>>>>>>>>>>>>>>>>>/VOTE COUNTING MACHINE ///\<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
 print"--------------------------------------------------------------------------------"
 n = input("ENTER THE NUMBER OF VOTERS IN THE AREA:")
 candidates = input("ENTER THE NUMBER OF CANDIDATES:")
